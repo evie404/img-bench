@@ -1,4 +1,4 @@
-# golang-boilerplate
+# img-bench
 
 ## Minikube
 

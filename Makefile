@@ -1,4 +1,4 @@
-PROJECT := golang-boilerplate
+PROJECT := img-bench
 
 .PHONY: default build buildifier
 
